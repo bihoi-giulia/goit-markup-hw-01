@@ -7,7 +7,7 @@
   </head>
   <body>
     <header>
-      <a href="index.html.html">
+      <a href="index.html">
         <h3>WebStudio</h3>
       </a>
       <nav>
@@ -102,7 +102,7 @@
     </section>
     <section>
       <footer>
-        <a href="index.html.html"> <h3>WebStudio</h3></a>
+        <a href="index.html"> <h3>WebStudio</h3></a>
         <address>
           <ul>
             <li>
